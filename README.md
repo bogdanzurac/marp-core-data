@@ -5,4 +5,4 @@ Core data components for the MARP project
 
 ## 📜 License
 
-This project is licensed under the Apache License, Version 2.0 - see the [LICENSE.md](https://github.com/bogdanzurac/marp-core-data/blob/master/LICENSE) file for details
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE.md](https://github.com/bogdanzurac/marp-core-data/blob/main/LICENSE) file for details
